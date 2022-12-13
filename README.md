@@ -6,7 +6,7 @@
 [Zhe WANG](https://wang-zhe.me/)<sup>1</sup>&nbsp;&nbsp;&nbsp;
 [Shaoshuai SHI](https://shishaoshuai.com/)<sup>2</sup>&nbsp;&nbsp;&nbsp;
 [Hang XU](https://xuhangcn.github.io/)<sup>3</sup>&nbsp;&nbsp;&nbsp;
-[Lanqing HONG](https://scholar.google.com/citations?hl=en&user=2p7x6OUAAAAJ)<sup>3</sup>
+[Lanqing HONG](https://scholar.google.com/citations?hl=en&user=2p7x6OUAAAAJ)<sup>3</sup>&nbsp;&nbsp;&nbsp;
 [Hongshang LI](https://www.ee.cuhk.edu.hk/~hsli/)<sup>1</sup>
 
 <sub>
@@ -16,24 +16,18 @@
 </sub>
 
 <br/>
+<br/>
 
 [![Arxiv](http://img.shields.io/badge/paper-arxiv.XXXX.XXXX-B31B1B.svg)](https://arxiv.org/abs/XXXX.XXXX)
 
 <br/>
 
-![motivation](figures/motivation.pdf)
 
-![](figures/contrastive_voxel_detr.pdf)
-
-
-![Overview](figures/contrastive_illustration.pdf)
+Voxel-DETR             | Query Contrast 
+:-------------------------:|:-------------------------:
+![](figures/contrastive_voxel_detr.png)  |  ![](figures/contrastive_illustration.png)
 
 </div>
-
-<br/>
-
-This repo is for official code release of paper [**ConQueR: Query Contrast Voxel-DETR for 3D Object Detection**](https://github.com/poodarchu/ConQueR).
-
 
 ## Citation
 
