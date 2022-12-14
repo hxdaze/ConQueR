@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-[![Arxiv](http://img.shields.io/badge/paper-arxiv.XXXX.XXXX-B31B1B.svg)](https://arxiv.org/abs/XXXX.XXXX)
+[Project Page](https://benjin.me/projects/2022_conquer/) / [Paper](https://arxiv.org/abs/2212.07289)
 
 <br/>
 
@@ -33,9 +33,9 @@ Voxel-DETR             | Query Contrast
 
 ```
 @article{zhu2022conquer,
-  title={ConQueR: Query Contrast Voxel-DETR},
+  title={ConQueR: Query Contrast Voxel-DETR for 3D Object Detection},
   author={Zhu, Benjin and Wang, Zhe and Shi, Shaoshuai and Xu, Hang and Hong, Lanqing and Li, Hongsheng},
-  journal={arXiv preprint arXiv:XXXX.XXXX},
+  journal={arXiv preprint arXiv:2212.07289},
   year={2022}
 }
 ```
